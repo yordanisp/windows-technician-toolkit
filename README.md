@@ -146,6 +146,3 @@ Before sharing the repository, search for:
 - Remote WMI and performance counters must already be permitted by the environment.
 - Network discovery and port testing should be performed only on authorized networks.
 
-## License
-
-Add the license required by your organization before redistributing this toolkit.
